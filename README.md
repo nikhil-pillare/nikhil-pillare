@@ -11,7 +11,7 @@ Hello stranger! My name is Nikhil Pillare and I am a Full Stack Node Developer,w
 
 <p align="center" color:"red">
      <a>
-          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Aman Kashyap 🏽; I am a Full-stack%20Node%20developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+          <img src="https://readme-typing-svg.demolab.com/?lines=Hi! My self Nikhil Pillare 🏽; I am a Full-stack%20Web%20developer 🏻‍💻; Interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -59,15 +59,15 @@ Hello stranger! My name is Nikhil Pillare and I am a Full Stack Node Developer,w
         </a>
       </td>
        <td width="25%" align="center">
-        <a href="http://expressjs.com/">
+        <a href="https://react.dev/">
           <span>React</span><br /><br />
           <img
             height="64px"
-            src="https://cdn.svgporn.com/logos/express.svg"
+            src="https://cdn.svgporn.com/logos/react.svg"
           />
         </a>
       </td>
-      <td width="25%" align="center">
+      <!-- <td width="25%" align="center">
         <a href="http://getbootstrap.com/">
           <span>NODE.js</span><br /><br />
           <img
@@ -75,7 +75,7 @@ Hello stranger! My name is Nikhil Pillare and I am a Full Stack Node Developer,w
             src="https://cdn.svgporn.com/logos/bootstrap.svg"
           />
         </a>
-      </td>
+      </td> -->
     </tr>
 <!--     <tr valign="top"> -->
 <!--       <td width="25%" align="center">
@@ -119,27 +119,27 @@ Hello stranger! My name is Nikhil Pillare and I am a Full Stack Node Developer,w
           />
         </a>
     </td>
-      <td width="25%" align="center">
+      <!-- <td width="25%" align="center">
         <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.heroku.com/">
           <span>Heroku</span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/heroku-icon.svg" />
         </a>
-      </td>
+      </td> -->
       <td width="25%" align="center">
         <a style="color: black; font-weight: bold; text-decoration: none;" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
           <span>JavaScript</span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg" />
         </a>
       </td>
-      <td width="25%" align="center">
+      <!-- <td width="25%" align="center">
         <a style="color: black; font-weight: bold; text-decoration: none;" href="https://aws.amazon.com/">
           <span>AWS</span><br /><br />
           <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg" />
         </a>
-      </td>
+      </td> -->
     </tr>
     <tr valign="top">
-        <td width="25%" align="center">
+        <!-- <td width="25%" align="center">
         <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.getpostman.com/">
           <span>Postman</span><br /><br />
           <img
@@ -147,7 +147,7 @@ Hello stranger! My name is Nikhil Pillare and I am a Full Stack Node Developer,w
             src="https://cdn.svgporn.com/logos/postman-icon.svg"
           />
         </a>
-    </td>
+    </td> -->
     <td width="25%" align="center">
       <a style="color: black; font-weight: bold; text-decoration: none;" href="https://www.mongodb.org/">
         <span>MongoDB</span><br /><br />
@@ -261,7 +261,7 @@ Hello stranger! My name is Nikhil Pillare and I am a Full Stack Node Developer,w
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Aman Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nikhil-pillare&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Nikhil Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=nikhil-pillare&theme=react-dark&hide_border=true" /></a>
 
 <br> 
 <div align="center">
