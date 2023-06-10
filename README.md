@@ -5,7 +5,7 @@
 
 <hr>
 
-Hello stranger! My name is Nikhil Pillare and I am a Full Stack Node Developer,with a passion for building dynamic web applications. With experience in MongoDB, Express.js, React, and Node.js.
+Hello stranger! My name is Nikhil Pillare and I am a Full Stack Web Developer,with a passion for building dynamic web applications. With experience in  React,MongoDB and Node.js.
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
