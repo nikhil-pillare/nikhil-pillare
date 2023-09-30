@@ -32,7 +32,7 @@ Hello stranger! My name is Nikhil Pillare and I am a Full Stack Web Developer,wi
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Portfolio](https://nikhil-pillare/portfolio)
+- 💬 Have a look at my [Portfolio](https://nikhil-pillare.github.io/)
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
