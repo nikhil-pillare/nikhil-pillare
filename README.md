@@ -1,11 +1,11 @@
 <h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm Nikhil Pillare 💻! Glad to see you here!
 </h2>
-<h3 align="center">An aspiring Full-Stack Web Developer with skills in MERN Stack.</h3>
+<h3 align="center">An aspiring Developer</h3>
 
 <hr>
 
-Hello stranger! My name is Nikhil Pillare and I am a Full Stack Web Developer,with a passion for building dynamic web applications. With experience in  React,MongoDB and Node.js.
+Hello stranger! My name is Nikhil Pillare
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
@@ -17,16 +17,6 @@ Hello stranger! My name is Nikhil Pillare and I am a Full Stack Web Developer,wi
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhil-pillare&label=Profile%20views&color=0e75b6&style=flat" alt="nikhil-pillare" /> </p>
 <img align="right" alt="Coding" width="400"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-- 🔭 I’m currently pursuing **Full Stack Web Development**
-
--    Checkout my **[Resume](https://1drv.ms/b/s!Avbf930rZSE0gRxWXA-TOBKMqWXG?e=HiYNub)**
-
-- 🌱 I’m currently learning **MERN stack**
-
-- 👯 I’m looking to collaborate on **[LinkedIn](https://www.linkedin.com/in/nikhil-pillare-56b1a9208)**
-
-- 📫 Reach me on **nikhilpillare98@gmail.com**
 
 - 💬 ask me about anything, i am happy to help
 
