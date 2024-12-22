@@ -22,7 +22,7 @@ Hello stranger! My name is Nikhil Pillare
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
-- 💬 Have a look at my [Portfolio](https://nikhil-pillare.github.io/)
+- 💬 Have a look at my [Portfolio](https://nikhilpillare.vercel.app/)
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
